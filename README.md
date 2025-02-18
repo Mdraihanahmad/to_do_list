@@ -21,10 +21,10 @@
 - ⚡ **JavaScript** – Interactive features & local storage handling<br>
 <br>
 ## 📸 Screenshots:<br>
-![To-Do List Preview Home Page with light mode](/screenshots/screenshot1.png)<br>
-![To-Do List Preview Home Page with dark mode](/screenshots/screenshot2.png)<br>
-![To-Do List Preview Home Page with light mode and add task](/screenshots/screenshot3.png)<br>
-![To-Do List Preview Home Page with dark mode and add task](/screenshots/screenshot4.png)<br>
+<img src="screenshots/screenshot1.png" alt="To-Do List Preview Home Page with light mode"><br>
+<img src="screenshots/screenshot2.png" alt="To-Do List Preview Home Page with dark mode"><br>
+<img src="screenshots/screenshot3.png" alt="To-Do List Preview Home Page with light mode and add task"><br>
+<img src="screenshots/screenshot4.png" alt="To-Do List Preview Home Page with dark mode and add task"><br>
 <br>
 ## 🚀 How to Use?<br>
 1️⃣ Type a task in the input field.  <br>
